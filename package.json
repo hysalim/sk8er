@@ -1,0 +1,12 @@
+{
+  "name": "sk8er",
+  "version": "1.0.0",
+  "description": "Sk8er packages monorepo",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emeric LE MOYEC",
+  "license": "MIT",
+  "packageManager": "pnpm@10.21.0"
+}
