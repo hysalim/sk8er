@@ -1,0 +1,22 @@
+{
+  "name": "sk8er",
+  "version": "1.0.0",
+  "description": "Sk8er packages monorepo",
+  "type": "module",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hysalim/sk8er.git"
+  },
+  "author": "Emeric LE MOYEC",
+  "license": "MIT",
+  "packageManager": "pnpm@10.28.1",
+  "devDependencies": {
+    "@eslint/js": "^9.39.2",
+    "eslint": "^9.39.2",
+    "globals": "^17.0.0",
+    "prettier": "^3.8.0",
+    "typescript": "^5.9.3",
+    "typescript-eslint": "^8.53.0"
+  }
+}
